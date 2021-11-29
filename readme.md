@@ -1,4 +1,5 @@
-## Oioi sou Milena Barbosa, futura desenvolvedora Front End!
+## Oioi sou Milena, desenvolvedora Front End!
+📚 Estudo sistemas para internet
 
 <div align="center">
   <a href="https://github.com/milenabarbosa">
