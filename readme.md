@@ -1,5 +1,5 @@
-## Oioi sou Milena, desenvolvedora Front End!
-📚 Estudo sistemas para internet
+## Oioi, sou Milena!
+📚 Estudo Análise e Desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/milenabarbosa">
